@@ -3,7 +3,7 @@
 
 # Description
 
-During the development of a personal project, learning SQL, I came up against the issue of cleaning data. The source I wanted to use to learn SQL was the IRS' [Political Organization Filing and Disclosure](https://www.irs.gov/charities-non-profits/political-organizations/political-organization-filing-and-disclosurer) dataset, which is released weekly (I think).
+During the development of a personal project, learning SQL, I came up against the issue of cleaning data. The source I wanted to use to learn SQL was the IRS' [Political Organization Filing and Disclosure](https://www.irs.gov/charities-non-profits/political-organizations/political-organization-filing-and-disclosure) dataset, which is released weekly (I think).
 
 The process of having to split line-by-line the flat data file into multiple data files was time consuming and I figured I would learn some VBA to try and automate what I could.
 
